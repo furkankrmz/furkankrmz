@@ -2,7 +2,9 @@
 
 Thanks for visiting! 😄
 I'm an avid self-learner and passionate about education. I'm currently a cadet (software engineering student) at École 42
-Here are some ideas to get you started:
+
+i have experience in c programming languages.My current goal is to deepen my 
+knowledge in Software Engineering and realize the game scenarios I have written
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
