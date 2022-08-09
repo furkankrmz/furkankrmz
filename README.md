@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Thanks for visiting! 😄
+## Thanks for visiting! 😄
 I'm an avid self-learner and passionate about education. I'm currently a cadet (software engineering student) at École 42
 
 i have experience in c programming languages.My current goal is to deepen my 
