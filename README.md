@@ -9,19 +9,12 @@ knowledge in Software Engineering 💻 and realize the game scenarios I have wri
 I have a variety of interests:
 
  .✏️ ArduinoProjects and Gamedesign
- 
  .🌎 languages & travelling
-
  .🐾 animals
- 
  .🥋Taekwondo
- 
  .🎮Video Games
- 
  .⚫Bocce
- 
  .🏓table tennis
- 
  .📚📖
  
  . ...always learning something new 🤓
