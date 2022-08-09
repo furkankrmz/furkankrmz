@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**furkankrmz/furkankrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Thanks for visiting! 😄
+I'm an avid self-learner and passionate about education. I'm currently a cadet (software engineering student) at École 42
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
