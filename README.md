@@ -6,15 +6,16 @@ I'm an avid self-learner and passionate about education. I'm currently a cadet (
 i have experience in c programming languages.My current goal is to deepen my 
 knowledge in Software Engineering 💻 and realize the game scenarios I have written 💡
 
-.✏️ ArduinoProjects and Gamedesign
-.🌎 languages & travelling
-.🐾 animals
-.🥋Taekwondo
-.⚫Bocce
-.🏓table tennis
-.📚📖
-. always learning something new 🤓
-.
+I have a variety of interests:
+ .✏️ ArduinoProjects and Gamedesign
+ .🌎 languages & travelling
+ .🐾 animals
+ .🥋Taekwondo
+ .⚫Bocce
+ .🏓table tennis
+ .📚📖
+ . always learning something new 🤓
+ .
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkankrmz&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkankrmz&layout=compact)
