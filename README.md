@@ -16,6 +16,8 @@ I have a variety of interests:
  
  .🥋Taekwondo
  
+ .🎮Video Games
+ 
  .⚫Bocce
  
  .🏓table tennis
