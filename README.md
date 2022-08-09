@@ -8,11 +8,11 @@ knowledge in Software Engineering 💻 and realize the game scenarios I have wri
 
 I have a variety of interests:
 
- -✏️ ArduinoProjects and Gamedesign
+ .✏️ ArduinoProjects and Gamedesign
  
- -🌎 languages & travelling
+ .🌎 languages & travelling
 
- -🐾 animals
+ .🐾 animals
  
  .🥋Taekwondo
  
@@ -22,7 +22,7 @@ I have a variety of interests:
  
  .📚📖
  
- . always learning something new 🤓
+ . ...always learning something new 🤓
  .
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkankrmz&show_icons=true&theme=radical) 
