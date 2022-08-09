@@ -7,9 +7,10 @@ i have experience in c programming languages.My current goal is to deepen my
 knowledge in Software Engineering 💻 and realize the game scenarios I have written 💡
 
 I have a variety of interests:
- .✏️ ArduinoProjects and Gamedesign
- .🌎 languages & travelling
- .🐾 animals
+
+ -✏️ ArduinoProjects and Gamedesign
+ -🌎 languages & travelling
+ -🐾 animals
  .🥋Taekwondo
  .⚫Bocce
  .🏓table tennis
