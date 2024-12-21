@@ -4,7 +4,7 @@
 I'm an avid self-learner and passionate about education. I'm currently a cadet (software engineering student) at École 42
 
 i have experience in c programming languages.My current goal is to deepen my 
-knowledge in Software Engineering 💻 and realize the game scenarios I have written 💡
+knowledge in Software Engineering 💻 and to realize my dream projects 💡
 
 I have a variety of interests:
 
